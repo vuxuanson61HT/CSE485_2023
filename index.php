@@ -83,7 +83,7 @@
                     <img src="images/songs/csmt.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title text-center">
-                            <a href="" class="text-decoration-none">Cuộc sống mến thương</a>
+                            <a href="detail.php" class="text-decoration-none">Cuộc sống mến thương</a>
                         </h5>
                     </div>
                 </div>
@@ -94,7 +94,7 @@
                     <img src="images/songs//longme.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title text-center">
-                            <a href="" class="text-decoration-none">Lòng mẹ</a>
+                            <a href="detail.php" class="text-decoration-none">Lòng mẹ</a>
                         </h5>
                     </div>
                 </div>
@@ -105,7 +105,7 @@
                     <img src="images/songs/phoipha.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title text-center">
-                            <a href="" class="text-decoration-none">Phôi pha</a>
+                            <a href="detail.php" class="text-decoration-none">Phôi pha</a>
                         </h5>
                     </div>
                 </div>
@@ -116,7 +116,7 @@
                     <img src="images/songs/noitinhyeubatdau.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title text-center my-title">
-                            <a href="" class="text-decoration-none">Nơi tình yêu bắt đầu</a>
+                            <a href="detail.php" class="text-decoration-none">Nơi tình yêu bắt đầu</a>
                         </h5>
                     </div>
                 </div>
@@ -127,7 +127,7 @@
                     <img src="images/songs/nguoithay.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title text-center my-title">
-                            <a href="" class="text-decoration-none">Người Thầy</a>
+                            <a href="detail.php" class="text-decoration-none">Người Thầy</a>
                         </h5>
                     </div>
                 </div>
@@ -138,7 +138,7 @@
                     <img src="images/songs/loveme.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title text-center my-title">
-                            <a href="" class="text-decoration-none">Love Me</a>
+                            <a href="detail.php" class="text-decoration-none">Love Me</a>
                         </h5>
                     </div>
                 </div>
@@ -149,7 +149,7 @@
                     <img src="images/songs/vetmua.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title text-center my-title">
-                            <a href="" class="text-decoration-none">Vết Mưa</a>
+                            <a href="detail.php" class="text-decoration-none">Vết Mưa</a>
                         </h5>
                     </div>
                 </div>
